@@ -1,4 +1,4 @@
-package com.example.yp_sprint_8
+package com.example.myapplication
 
 import org.junit.Test
 

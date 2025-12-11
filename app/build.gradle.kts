@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.yp_sprint_8"
+    namespace = "com.example.myapplication"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.yp_sprint_8"
+        applicationId = "com.example.myapplication"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
